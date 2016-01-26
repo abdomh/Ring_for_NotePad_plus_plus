@@ -1,7 +1,7 @@
 Ring Syntax highlighter for notepad++
 --------------
 This a simple ring language syntax highlighter with notepad++
-if you don't know what ring is you can see it at: http://ring-lang.net/
+if you don't know what ring is Refer to : http://ring-lang.net/
 Screenshot
 ======
 ![Ring syntax highlighter in action](http://i.imgur.com/DqZyyXg.png)
