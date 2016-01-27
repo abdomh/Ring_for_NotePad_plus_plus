@@ -30,7 +30,7 @@ Run integration
 3. Choose `Run...`
 4. On the run dialog Put this command(Chnage `RING_BIN_FOLDER` to point to ring folder): 
  
-`cmd /K cd "RING_BIN_FOLDER" && run $(FULL_CURRENT_PATH)`
+`cmd /c "RING_BIN_FOLDER && run.bat $(FULL_CURRENT_PATH)"`
 
 i.e if ring.exe is in c:\ring\bin\ my command would be:
-`cmd /K cd "c:\ring\bin\" && run $(FULL_CURRENT_PATH)`
+`cmd /c "cd c:\ring\bin\ && run $(FULL_CURRENT_PATH)"`
